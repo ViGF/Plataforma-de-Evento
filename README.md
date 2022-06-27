@@ -24,7 +24,7 @@ yarn add
 #Adicione as variáveis de ambiente
 #Na pasta do projeto crie um arquivo chamado .env.local e adicione as seguintes informações
 
-VITE_API_URL=ADICIONE AQUI O LINK DA API DO GRAPHCMS
+VITE_API_URL=ADICIONE AQUI O LINK DA SUA API DO GRAPHCMS
 VITE_API_ACCESS_TOKEN=ADICIONE AQUI O TOKEN DE ACESSO DA SUA API DO GRAPHCMS
 
 # Execute a aplicação
