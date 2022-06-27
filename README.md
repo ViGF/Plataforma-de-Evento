@@ -16,10 +16,10 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 git clone https://github.com/ViGF/Plataforma-de-Evento.git
 
 # Acesse a pasta do projeto
-cd event-platform
+cd Plataforma-de-Evento
 
 # Instale as dependências
-npm install
+yarn add
 
 #Adicione as variáveis de ambiente
 #Na pasta do projeto crie um arquivo chamado .env.local e adicione as seguintes informações
@@ -28,7 +28,7 @@ VITE_API_URL=ADICIONE AQUI O LINK DA API DO GRAPHCMS
 VITE_API_ACCESS_TOKEN=ADICIONE AQUI O TOKEN DE ACESSO DA SUA API DO GRAPHCMS
 
 # Execute a aplicação
-npm run dev
+yarn run dev
 
 #Agora basta acessar a aplicação
 ```
