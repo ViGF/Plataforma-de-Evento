@@ -1,5 +1,5 @@
 # Plataforma-de-Evento
-Plataforma de eventos, é possível fazer um cadastro e acessar as aulas do Ignite React JS, da Rocketseat.
+Plataforma de eventos, é possível fazer um cadastro e acessar as aulas do Ignite React JS, da Rocketseat, a partir de requisições ao GraphCMS.
 
 ## ✨ Tecnologias
 React | GraphQL | GraphCMS | Apollo GraphQL | GraphQL Code Generator | Vite | Tailwind CSS | TypeScript
